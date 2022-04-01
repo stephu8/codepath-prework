@@ -39,23 +39,29 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)![](https://i.imgur.com/c9oDp9R.gif)
-![](gif2-link-here)![](https://i.imgur.com/MFcnT03.gif)
+![](https://i.imgur.com/c9oDp9R.gif)
+![](https://i.imgur.com/MFcnT03.gif)
 ![](https://i.imgur.com/0XEgXI5.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 To understand the Math.random() function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
 To understand how to create an Array in Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 Frequency chart: https://www.doctormix.com/blog/note-to-frequency-chart
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 While working on the project's basic requirements, I realized that I had almost finished, but the buttons didn't make any sound when clicked. I knew that I had either made a syntax error or accidentally skipped a part at some point in the code but couldn't figure out where. I tried checking for errors through the console, and although I had one syntax error in my javascript file, the buttons still didn't work. So I started reading through the file and comparing it with the instructions given and realized that I misspelled 'onclick' as 'onlick', causing the problem. Everything worked as expected after making the correction.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
- I want to know how a website like the assigned prework can be deployed publicly for everyone to use. How are dynamic websites, for example, Apple's website, made? How do some websites have a different layout/display on various devices?
+
+I want to know how a website like the assigned prework can be deployed publicly for everyone to use. How are dynamic websites, for example, Apple's website, made? How do some websites have a different layout/display on various devices?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had a few more hours to work on this project, I would spend time adding more features. First, I would try to implement levels to the game, such as easy, medium, and hard. Each level would have different features such as different sound frequencies, more buttons, more complex patterns, limited time, and higher sound play speed. I would also try to implement a scoreboard that keeps track of plays and winning streaks.
 
 
